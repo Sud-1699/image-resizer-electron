@@ -1,0 +1,21 @@
+{
+  "name": "imgresize",
+  "version": "1.0.0",
+  "description": "Electron project to resize image",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "Image",
+    "Resizer"
+  ],
+  "author": "kya reh",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^21.1.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
